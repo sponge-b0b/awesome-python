@@ -610,6 +610,7 @@ _Tools of static analysis, linters and code quality checkers. Also see [awesome-
   - [prospector](https://github.com/prospector-dev/prospector) - A tool to analyze Python code.
   - [repowise](https://github.com/repowise-dev/repowise) - Codebase intelligence that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection.
   - [complexipy](https://github.com/rohaquinlop/complexipy) - Cognitive complexity analysis for Python code, written in Rust.
+  - [arid](https://github.com/sponge-b0b/arid) - A fast Python duplicate-code checker designed to complement Ruff and replace Pylint R0801.
 - Git Hooks
   - [pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - Linters and Formatters
